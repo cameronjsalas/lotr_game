@@ -1,0 +1,21 @@
+.Lotrgroup-cards{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.Lotrgroup-winner{
+  color: #0fd673;
+  text-align: center;
+  margin-top: 0;
+}
+
+.Lotrgroup-loser{
+ color: #ff2478;
+ text-align: center;
+ margin-top: 0;
+}
+
+.Lotrgroup-exp {
+  text-align: center;
+}
